@@ -1,0 +1,3 @@
+I am learning how AI agents use multiple tools.
+This is Project 2.
+The agent will learn how to choose the right tool.
